@@ -1,0 +1,11 @@
+edu\eci\cvds\Labtools\controller\LoginControllerTest.class
+edu\eci\cvds\Labtools\controller\QueryControllerTest.class
+edu\eci\cvds\Labtools\repository\BasicLabRepositoryTest.class
+edu\eci\cvds\Labtools\repository\BasicUserRepositoryTest.class
+edu\eci\cvds\Labtools\service\BasicEmailVerificationServiceTest.class
+edu\eci\cvds\Labtools\service\BasicHashServiceTest.class
+edu\eci\cvds\Labtools\repository\BasicBookingRepositoryTest.class
+edu\eci\cvds\Labtools\service\BasicLogServiceTest.class
+edu\eci\cvds\Labtools\model\UserTest.class
+edu\eci\cvds\Labtools\LabtoolsApplicationTests.class
+edu\eci\cvds\Labtools\controller\BookingControllerTest.class
